@@ -127,7 +127,7 @@ If you use this implementation in your research, please consider citing the asso
 
 ## License
 
-This project is released under the MIT License for academic and research purposes.
+This project is released under the GPLv3 License for academic and research purposes.
 
 ## Contributing
 
